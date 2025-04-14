@@ -47,7 +47,7 @@ modules:
       #   path: ..
       - type: git
         url: https://github.com/js-dos/dos.zone.browser.pc
-        commit: cc316a335d03cf5c823c1f497a5b8ff4aa616ad1
+        commit: 6bc0a67a7d84e229de7ba18b280a42f3c0f8b886
       - type: file
         url: https://v8.js-dos.com/flatpak/node-gyp.zip
         sha256: 8905e15b377f3e26e1515d48f1b316b7deca004654c2e52239d599799cb4976f
